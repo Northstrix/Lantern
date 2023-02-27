@@ -1,5 +1,5 @@
 # Lantern
-The lantern project is an ESP-based addressable RGB LED strip controller.
+The lantern project is an ESP-based addressable RGB LED strip controller. It consists of two ESPs. ESP32 serves as a remote, and ESP8266 is the receiver that drives the addressable RGB LED strip. The Lantern project offers its users 32 different modes, 14 lock screens, and a basic level of security (at least it prevents separate transmitter-receiver pairs from interfering with one another).
 </br>
 You can find the tutorial here https://www.instructables.com/Addressable-RGB-LED-Strip-Controller-The-Lantern-P/
 </br>
