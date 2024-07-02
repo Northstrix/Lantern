@@ -1,8 +1,23 @@
-# Lantern
-The lantern project is an ESP-based addressable RGB LED strip controller. It consists of two ESPs. ESP32 serves as a remote, and ESP8266 is the receiver that drives the addressable RGB LED strip. The Lantern project offers its users 32 different modes, 14 lock screens, and a basic level of security (at least it prevents separate transmitter-receiver pairs from interfering with one another).
-</br>
+# The Lantern Project
+The lantern project is an ESP-based addressable RGB LED strip controller. It consists of two ESPs.
+
+ESP32 serves as a remote, and ESP8266 is the receiver that drives the addressable RGB LED strip.
+
+The Lantern project offers its users 32 different modes, 14 lock screens, and a basic level of security (at least it prevents separate transmitter-receiver pairs from interfering with one another).
+
+# V1.1
+
+![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0641.jpg)
+![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0645.jpg)
+![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0657.jpg)
+![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0665.jpg)
+![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/Transmitter%20Circuit%20Diagram.png)
+![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/Receiver%20Circuit%20Diagram.png)
+
+# V1.0
+
 You can find the tutorial here https://www.instructables.com/Addressable-RGB-LED-Strip-Controller-The-Lantern-P/
-</br>
+
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/Pictures/IMG_20230226_124702.jpg)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/Pictures/Transmitter%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/Pictures/Receiver%20Circuit%20Diagram.png)
@@ -25,6 +40,9 @@ You can find the tutorial here https://www.instructables.com/Addressable-RGB-LED
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/Pictures/IMG_20230226_132013.jpg)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/Pictures/IMG_20230226_132022.jpg)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/Pictures/IMG_20230226_132942.jpg)
+
+# Available modes for both V1.0 and V1.1
+
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/GIFs/Rainbow%20Fade.gif)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/GIFs/Rainbow%20Loop.gif)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.0/GIFs/Smooth%20Rainbow.gif)
