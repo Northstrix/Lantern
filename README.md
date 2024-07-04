@@ -7,6 +7,8 @@ The Lantern project offers its users 32 different modes, 14 lock screens, and a 
 
 # V1.1
 
+The tutorial is available at: https://www.instructables.com/DIY-Addressable-RGB-LED-Strip-Controller/
+
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0641.jpg)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0645.jpg)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0657.jpg)
