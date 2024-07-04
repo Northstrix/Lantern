@@ -5,6 +5,8 @@ ESP32 serves as a remote, and ESP8266 is the receiver that drives the addressabl
 
 The Lantern project offers its users 32 different modes, 14 lock screens, and a basic level of security (at least it prevents separate transmitter-receiver pairs from interfering with one another).
 
+SourceForge page: https://sourceforge.net/projects/the-lantern-project/
+
 # V1.1
 
 The tutorial is available at: https://www.instructables.com/DIY-Addressable-RGB-LED-Strip-Controller/
