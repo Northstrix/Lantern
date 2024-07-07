@@ -11,6 +11,8 @@ SourceForge page: https://sourceforge.net/projects/the-lantern-project/
 
 The tutorial is available at: https://www.instructables.com/DIY-Addressable-RGB-LED-Strip-Controller/
 
+Made with the help of [Perplexity](https://www.perplexity.ai/)
+
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0641.jpg)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0645.jpg)
 ![image text](https://github.com/Northstrix/Lantern/blob/main/V1.1/Pictures/IMG_0657.jpg)
