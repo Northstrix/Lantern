@@ -7,6 +7,8 @@ The Lantern project offers its users 32 different modes, 14 lock screens, and a 
 
 SourceForge page: https://sourceforge.net/projects/the-lantern-project/
 
+## Attention: The latest version of Lantern compiles successfully in Arduino IDE 1.8.9 with ESP32 package v2.0.8. There might be compatibility issues with other versions of the ESP32 package for Arduino IDE.
+
 # V1.1
 
 The tutorial is available at: https://www.instructables.com/DIY-Addressable-RGB-LED-Strip-Controller/
